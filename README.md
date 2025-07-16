@@ -2,6 +2,9 @@
 
 A Flutter application that uses machine learning to classify weather conditions from images. This project was developed for the IndabaX South Sudan 2025 AI Hackathon.
 
+## Video Show App fully functional.
+https://drive.google.com/file/d/1HTNr5HVNoRj2IgWpDywXbUcbkAR5ft7r/view?usp=sharing
+
 ## Features
 
 - **Weather Classification**: Identify weather conditions (Cloudy, Rain, Shine, Sunrise) from images
