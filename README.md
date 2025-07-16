@@ -102,6 +102,7 @@ This project was developed as part of the IndabaX South Sudan 2025 AI Hackathon,
 - Kenisa Majhok
 - Nhial Majok
 - Ajang Chol
+  
 African Leadership University
 
 ## License
