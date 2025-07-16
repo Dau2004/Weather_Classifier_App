@@ -12,7 +12,7 @@ A Flutter application that uses machine learning to classify weather conditions 
 - **Modern UI**: Beautiful, intuitive interface with smooth animations
 
 ## Screenshots
-![Alt text](path/to/image.png)
+![Alt text](simulator_screenshot_992DDD61-C337-4C44-8206-ED9E8D2456CB.png)
 
 *[Add screenshots of your app here]*
 
