@@ -11,10 +11,11 @@ A Flutter application that uses machine learning to classify weather conditions 
 - **Confidence Scores**: View confidence levels for each weather category
 - **Modern UI**: Beautiful, intuitive interface with smooth animations
 
-## Screenshots
+## Home
 ![Alt text](simulator_screenshot_992DDD61-C337-4C44-8206-ED9E8D2456CB.png)
 
-*[Add screenshots of your app here]*
+## Prediction
+![Alt text](simulator_screenshot_66055108-FA82-4E4E-A58E-9E1C662DA376.png)
 
 ## Technologies Used
 
